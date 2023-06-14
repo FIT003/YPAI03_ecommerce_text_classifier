@@ -1,7 +1,7 @@
 # e-Commerce Text Classifier
 
 ## Description
-This repository contains code for an e-Commerce Text Classifier. The code is designed to classify text data from the e-commerce domain into different categories. The classifier is trained using a dataset obtained from Kaggle.
+This repository contains code for an e-Commerce Text Classifier. The code is designed to classify text data from the e-commerce domain into different categories. The classifier is trained using a dataset obtained from Kaggle. Text dataset used have 4 categories - "Electronics", "Household", "Books" and "Clothing & Accessories", which almost cover 80% of any E-commerce website.
 
 ## Installation
 To use this code, please follow the steps below:
