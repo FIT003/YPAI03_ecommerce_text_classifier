@@ -63,6 +63,6 @@ The code performs the following steps:
 ![accuracy](https://github.com/FIT003/YPAI03_ecommerce_text_classifier/assets/97938451/3dd87ec3-294a-4852-9948-e7a947372c91)
 
 ## Credits
-URL: 
+URL: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification/code
 
 
